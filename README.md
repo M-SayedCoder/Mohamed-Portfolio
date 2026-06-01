@@ -1,4 +1,3 @@
-![Uploading Screenshot 2026-06-02 004233.png…]()
 # 🚀 Mohamed Sayed Portfolio
 
 A modern and interactive portfolio website built with React and Vite to showcase my journey as a Full-Stack Developer, highlighting my projects, technical skills, certifications, achievements, and professional experiences.
